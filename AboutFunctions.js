@@ -1,8 +1,5 @@
-function()
-{
-	var x = 2;
-	var y = 7;
-	var resultat = x+y;
-
-	return resultat;	
+function myFunction() {
+    var x = 999999999999999;
+    var y = 9999999999999999;
+    document.getElementById("demo").innerHTML = x + "<br>" + y;
 }
